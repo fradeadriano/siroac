@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<menu>
+	<identificador id="acceso">YmVuZmljYQ==</identificador>
+	<father id="Reportes" orden="0">
+		<FirstGeneration id="child1" imagen="images/mail.png" ruta="modulos/reporte/listado_mecanismos/reporte.php" acronimo="rptuno" orden="0">Listado Mecanismos</FirstGeneration>		
+		<FirstGeneration id="child2" imagen="images/mail.png" ruta="modulos/reporte/reimpresion_mecanismo/reporte.php" acronimo="rptdos" orden="1">Reimpresion Mecanismo</FirstGeneration>				
+		<FirstGeneration id="child3" imagen="images/mail.png" ruta="modulos/reporte/grafico_mecanismo/reporte.php" acronimo="rpttres" orden="1">Grafico Mecanismos</FirstGeneration>						
+	</father>
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<menu>
+	<identificador id="acceso">YmVuZmljYQ==</identificador>
+	<father id="Mecanismo" orden="0">
+		<FirstGeneration id="child1" imagen="images/mail.png" ruta="modulos/mecanismo/denuncia/denuncia.php" acronimo="den" orden="0">Denuncia</FirstGeneration>					
+		<FirstGeneration id="child2" imagen="" ruta="" orden="1">Peticion
+			<SecondGeneration id="child2_1" imagen="images/mail.png" ruta="modulos/mecanismo/peticion/caso/caso.php" acronimo="petCa" orden="0">Caso o Asesoria</SecondGeneration>			
+			<SecondGeneration id="child2_2" imagen="images/mail.png" ruta="modulos/mecanismo/peticion/asesoria/asesoria.php" acronimo="petAs" orden="1">Asesoria DJP</SecondGeneration>
+			<SecondGeneration id="child2_3" imagen="images/mail.png" ruta="modulos/mecanismo/peticion/datos_filiatorios/datos_filiatorios.php" acronimo="petDa" orden="2">Datos Filiatorios</SecondGeneration>																		
+		</FirstGeneration>							
+
+		<FirstGeneration id="child3" imagen="images/mail.png" ruta="modulos/mecanismo/queja/queja.php" acronimo="que" orden="2">Queja</FirstGeneration>		
+		<FirstGeneration id="child4" imagen="images/mail.png" ruta="modulos/mecanismo/sugerencia/sugerencia.php" acronimo="sug" orden="3">Sugerencia</FirstGeneration>		
+		<FirstGeneration id="child5" imagen="images/mail.png" ruta="modulos/mecanismo/reclamo/reclamo.php" acronimo="rec" orden="4">Reclamo</FirstGeneration>				
+	</father>
+</menu>

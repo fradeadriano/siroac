@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<menu>
+	<identificador id="acceso">YmVuZmljYQ==</identificador>
+	<father id="Mantenimiento" orden="0">
+		<FirstGeneration id="child1" imagen="images/mail.png" ruta="modulos/mantenimiento/ciudadano/ciudadano.php" acronimo="ciu" orden="0">Ciudadano</FirstGeneration>					
+		<FirstGeneration id="child2" imagen="images/mail.png" ruta="modulos/mantenimiento/municipio/municipio.php" acronimo="mun" orden="1">Municipio</FirstGeneration>							
+		<FirstGeneration id="child3" imagen="images/mail.png" ruta="modulos/mantenimiento/parroquia/parroquia.php" acronimo="par" orden="2">Parroquia</FirstGeneration>									
+	</father>
+</menu>
